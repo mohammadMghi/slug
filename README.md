@@ -9,4 +9,4 @@ For exaple :
   
 ---------------------------------
 
-If slug was in database befor the code add number 1 2 3 4 ... to end up url .
+If slug was in database the code add number 1 2 3 4 ... to end up url .
